@@ -3,3 +3,7 @@
 
 2 - OpenSource culture
 	- Niektory programatroi pracuju na niecom co neskonci ako produkt a nebudu z toho peniaze.
+
+3 - Keep It Simple 
+	- Kod mozeme napisat tisic sposobmi. Treba ho pisat jednoducho aby sa dal lahko precitat inymi programatormi
+	  a aby sa dal znova pouzit.
