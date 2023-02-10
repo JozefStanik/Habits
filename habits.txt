@@ -10,3 +10,7 @@
 
 4 - Get in the zone
 	- Najdi si svoj cas kedy si najviac produktivny a daj ostatnym vediet aby ta vtedy nevyrusovali.
+
+5 - Always be learning
+	- Vzdy sa treba ucit nove veci aby sme nezistili ze sme out-dated. Najlepsi skill aby moze programator mat
+	  je vediet debugovat. To ukaze ci vies pochopit enviroment a program ktory citas.
