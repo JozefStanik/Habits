@@ -14,3 +14,7 @@
 5 - Always be learning
 	- Vzdy sa treba ucit nove veci aby sme nezistili ze sme out-dated. Najlepsi skill aby moze programator mat
 	  je vediet debugovat. To ukaze ci vies pochopit enviroment a program ktory citas.
+
+6 - Collaboration
+	- Ak narazime na nejaky problem, netreba sa bat opytat sa niekoho ineho na pomoc. Ten clovek moze mat nejaky
+	  napad ako to vyriesit a nie je tam dovod aby sa clovek nad tym trapil sam. Programovanie je timovy sport.
