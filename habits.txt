@@ -7,3 +7,6 @@
 3 - Keep It Simple 
 	- Kod mozeme napisat tisic sposobmi. Treba ho pisat jednoducho aby sa dal lahko precitat inymi programatormi
 	  a aby sa dal znova pouzit.
+
+4 - Get in the zone
+	- Najdi si svoj cas kedy si najviac produktivny a daj ostatnym vediet aby ta vtedy nevyrusovali.
