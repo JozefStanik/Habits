@@ -1,2 +1,5 @@
 1 -  Get it done
 	- Netreba dlho sediet a rozmyslat nad niecim co uz je spravene a snazit sa tam objavit dlasiu chybu.
+
+2 - OpenSource culture
+	- Niektory programatroi pracuju na niecom co neskonci ako produkt a nebudu z toho peniaze.
